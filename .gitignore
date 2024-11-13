@@ -3,12 +3,12 @@
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
 Garage/[Ll]ibrary/
-Garage//[Tt]emp/
-Garage//[Oo]bj/
-Garage//[Bb]uild/
-Garage//[Bb]uilds/
-Garage//[Ll]ogs/
-Garage//[Uu]ser[Ss]ettings/
+Garage/[Tt]emp/
+Garage/[Oo]bj/
+Garage/[Bb]uild/
+Garage/[Bb]uilds/
+Garage/[Ll]ogs/
+Garage/[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
